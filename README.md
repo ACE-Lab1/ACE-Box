@@ -1,6 +1,5 @@
 # ACE-Box
 The ACE-Box is an open-access, portable tool kit enabling students and engineers to learn and apply automatic control engineering (ACE) without needing a full-scale laboratory.
-
 # Contents
 <br />1.0 3D Setting-Up ACE-Box (Base + Sense)
 <br />2.0 3D Setting-Up ACE-Box (Actuate)
